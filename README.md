@@ -33,10 +33,6 @@
 
 
 
-![Snake animation](https://github.com/soaresrex/soaresrx/blob/output/github-contribution-grid-snake.svg)
-
-
-
 
 
 
